@@ -1,0 +1,10 @@
+[gd_resource type="Theme" load_steps=4 format=2]
+
+[ext_resource path="res://fonts/h2font.tres" type="DynamicFont" id=1]
+[ext_resource path="res://fonts/h1font.tres" type="DynamicFont" id=2]
+[ext_resource path="res://fonts/h3font.tres" type="DynamicFont" id=3]
+
+[resource]
+RichTextLabel/fonts/h1 = ExtResource( 2 )
+RichTextLabel/fonts/h2 = ExtResource( 1 )
+RichTextLabel/fonts/h3 = ExtResource( 3 )
